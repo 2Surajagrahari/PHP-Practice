@@ -75,3 +75,4 @@ function calculateAvg($grades){
 
 </body>
 </html>
+
